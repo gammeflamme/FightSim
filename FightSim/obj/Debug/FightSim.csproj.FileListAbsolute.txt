@@ -1,0 +1,7 @@
+C:\FTP\programering\FightSim\FightSim\FightSim\bin\Debug\FightSim.exe.config
+C:\FTP\programering\FightSim\FightSim\FightSim\bin\Debug\FightSim.exe
+C:\FTP\programering\FightSim\FightSim\FightSim\bin\Debug\FightSim.pdb
+C:\FTP\programering\FightSim\FightSim\FightSim\obj\Debug\FightSim.csprojAssemblyReference.cache
+C:\FTP\programering\FightSim\FightSim\FightSim\obj\Debug\FightSim.csproj.CoreCompileInputs.cache
+C:\FTP\programering\FightSim\FightSim\FightSim\obj\Debug\FightSim.exe
+C:\FTP\programering\FightSim\FightSim\FightSim\obj\Debug\FightSim.pdb
